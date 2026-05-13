@@ -8,7 +8,6 @@ import RiskAssessmentForm from './components/RiskAssessmentForm';  // Import the
 import Icon from 'react-native-vector-icons/FontAwesome'; // Import FontAwesome icons
 import breastCancerLogo from './assets/breast_cancer_logo.png'; // Correct path to your logo image
 
-
 const Tab = createBottomTabNavigator(); // Create a Tab navigator
 
 export default function App() {
